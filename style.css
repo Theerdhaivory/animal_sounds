@@ -1,0 +1,10 @@
+body{
+    background-image: url("076aea1a13434e3bb705dff3997d344f.jpg");
+    background-size: cover;
+    font-family: "Playfair Display", serif;
+}
+
+button {
+    padding: 10px 24px;
+    background-color: pink;
+}
